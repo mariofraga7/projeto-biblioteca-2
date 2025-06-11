@@ -1,0 +1,14 @@
+C:\Users\grautecnico\projeto\obj\Debug\net8.0\projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grautecnico\projeto\obj\Debug\net8.0\projeto.AssemblyInfoInputs.cache
+C:\Users\grautecnico\projeto\obj\Debug\net8.0\projeto.AssemblyInfo.cs
+C:\Users\grautecnico\projeto\obj\Debug\net8.0\projeto.csproj.CoreCompileInputs.cache
+C:\Users\grautecnico\projeto\bin\Debug\net8.0\projeto.exe
+C:\Users\grautecnico\projeto\bin\Debug\net8.0\projeto.deps.json
+C:\Users\grautecnico\projeto\bin\Debug\net8.0\projeto.runtimeconfig.json
+C:\Users\grautecnico\projeto\bin\Debug\net8.0\projeto.dll
+C:\Users\grautecnico\projeto\bin\Debug\net8.0\projeto.pdb
+C:\Users\grautecnico\projeto\obj\Debug\net8.0\projeto.dll
+C:\Users\grautecnico\projeto\obj\Debug\net8.0\refint\projeto.dll
+C:\Users\grautecnico\projeto\obj\Debug\net8.0\projeto.pdb
+C:\Users\grautecnico\projeto\obj\Debug\net8.0\projeto.genruntimeconfig.cache
+C:\Users\grautecnico\projeto\obj\Debug\net8.0\ref\projeto.dll
